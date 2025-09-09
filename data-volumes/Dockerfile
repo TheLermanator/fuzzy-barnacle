@@ -2,7 +2,7 @@ FROM node:alpine
 
 WORKDIR /app
 
-COPY data-volumes/package*.json ./
+COPY package*.json ./
 
 RUN npm ci
 
