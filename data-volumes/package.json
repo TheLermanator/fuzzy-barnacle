@@ -1,9 +1,8 @@
 {
-  "name": "data-volume-example",
+  "name": "data-volumes",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "author": "Maximilian Schwarzmüller / Academind GmbH",
   "license": "ISC",
   "scripts": {
     "start": "nodemon server.js"
